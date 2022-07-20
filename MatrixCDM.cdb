@@ -7201,11 +7201,11 @@ rule</a:Comment>
 <c:Identifiers>
 <o:Identifier Id="o320">
 <a:ObjectID>115BB1B7-E78B-42DF-8F4C-F9B9E7417B3F</a:ObjectID>
-<a:Name>column_id</a:Name>
-<a:Code>column_id</a:Code>
+<a:Name>config_id</a:Name>
+<a:Code>config_id</a:Code>
 <a:CreationDate>1657938064</a:CreationDate>
 <a:Creator>Matrix</a:Creator>
-<a:ModificationDate>1657938064</a:ModificationDate>
+<a:ModificationDate>1657938574</a:ModificationDate>
 <a:Modifier>Matrix</a:Modifier>
 <c:Identifier.Attributes>
 <o:EntityAttribute Ref="o321"/>
